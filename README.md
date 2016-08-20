@@ -1,4 +1,5 @@
-#EDX sequence
-#https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x
-#https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x
-#https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x
+- Data Science and Engineering with Apache
+	- https://prod-edx-mktg-edit.edx.org/xseries/data-science-engineering-apache-spark
+- Applied Machine Learning
+	- https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x
+- 
