@@ -1,5 +1,0 @@
-- Data Science and Engineering with Apache
-	- https://prod-edx-mktg-edit.edx.org/xseries/data-science-engineering-apache-spark
-- Applied Machine Learning
-	- https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x
-- 
